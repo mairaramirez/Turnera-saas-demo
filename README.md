@@ -131,20 +131,20 @@ Participé en el diseño, desarrollo y evolución de la plataforma, trabajando s
 
 ### Página pública
 
-![Home](screenshots/home-turn.png)
+![Home](images/home-turn.png)
 
 ### Selección de horarios
 
-![Horarios](screenshots/horarios.png)
+![Horarios](images/horarios.png)
 
 ### Confirmación de reserva
 
-![Turno Confirmado](screenshots/turno-final.png)
+![Turno Confirmado](images/turno-final.png)
 
 ### Dashboard administrativo
 
-![Dashboard](screenshots/admin.png)
+![Dashboard](images/admin.png)
 
 ### Personalización visual
 
-![Personalización](screenshots/page.png)
+![Personalización](images/page.png)
